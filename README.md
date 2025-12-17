@@ -20,7 +20,7 @@ I also participated in Google hackathons and national-level hackathons, where I 
 ## Interests
 
 * Frontend Development
-* Artificial Intelligence
+* AI
 * Blockchain
 
 ## Contact
