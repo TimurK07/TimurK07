@@ -2,7 +2,7 @@
 
 Frontend Developer · 18 · Pavlodar, Kazakhstan
 
-I build user-focused web interfaces and enjoy turning ideas into clean, working products. My main focus is frontend development, but I’m also interested in AI and blockchain-related technologies.
+I turn ideas into interactive, user-friendly web experiences. Frontend development is my main focus, but I’m also curious about AI and blockchain, exploring how they can reshape the web.
 
 ## Stack
 
