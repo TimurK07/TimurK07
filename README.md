@@ -27,7 +27,7 @@ I also participated in Google hackathons and national-level hackathons, where I 
 
 * **GitHub:** [@TimurK07](https://github.com/TimurK07)
 * **Instagram:** [@iamkaliev](https://www.instagram.com/iamkaliev)
-* **LinkedIn:** [Timur Kaliev](www.linkedin.com/in/timur-kaliev-7b2032285)
+* **LinkedIn:** [Timur Kaliev]([www.linkedin.com/in/timur-kaliev-7b2032285](https://www.linkedin.com/in/timur-kaliev-7b2032285))
 ---
 
 Timur Kaliev · Frondixx · 2025
