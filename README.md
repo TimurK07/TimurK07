@@ -6,7 +6,7 @@ I turn ideas into interactive, user-friendly web experiences. Frontend developme
 
 ## Stack
 
-**Language:** JavaScript
+**Language:** JavaScript  
 **Frameworks & Libraries:** React, Next.js, TanStack Query, Zustand
 
 ## Experience
@@ -25,9 +25,10 @@ I also participated in Google hackathons and national-level hackathons, where I 
 
 ## Contact
 
-* **GitHub:** [@TimurK07](https://github.com/TimurK07)
-* **Instagram:** [@iamkaliev](https://www.instagram.com/iamkaliev)
-* **LinkedIn:** [Timur Kaliev]([www.linkedin.com/in/timur-kaliev-7b2032285](https://www.linkedin.com/in/timur-kaliev-7b2032285))
+* **GitHub:** [@TimurK07](https://github.com/TimurK07)  
+* **Instagram:** [@iamkaliev](https://www.instagram.com/iamkaliev)  
+* **LinkedIn:** [Timur Kaliev](https://www.linkedin.com/in/timur-kaliev-7b2032285)
+
 ---
 
 Timur Kaliev · Frondixx · 2025
