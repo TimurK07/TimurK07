@@ -1,4 +1,4 @@
-# Timur Kaliev (Frondixx)
+# Timur Kaliev 
 
 Frontend Developer · 18 · Pavlodar, Kazakhstan
 
