@@ -1,6 +1,6 @@
 # Timur Kaliev 
 
-Frontend Developer · 18 · Pavlodar, Kazakhstan
+Frontend Developer · Astana, Kazakhstan
 
 I turn ideas into interactive, user-friendly web experiences. Frontend development is my main focus, but I’m also curious about AI and blockchain, exploring how they can reshape the web.
 
